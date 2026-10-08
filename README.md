@@ -76,12 +76,12 @@ Newer versions (V2) also have a **speaker**, a **microphone** and a **touch-sens
 ```
    uflash main.py
 ```
-4. Watch your name scroll across the display! ✨
+4. Watch your name scroll across the display! 
 
  
 You can find all built-in images (like `Image.HAPPY`, `Image.SAD` or `Image.GHOST`) in the [micro:bit Python documentation](https://microbit-micropython.readthedocs.io/en/v2-docs/).
  
-## 🛠️ Troubleshooting
+## Troubleshooting(only if needet)
  
 | Problem | Solution |
 |---|---|
@@ -106,10 +106,10 @@ You can find all built-in images (like `Image.HAPPY`, `Image.SAD` or `Image.GHOS
 - [MakeCode editor](https://makecode.microbit.org/) (block-based coding, great for beginners)
 - [micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/)
 - [uflash on PyPI](https://pypi.org/project/uflash/)
-## 🙌 Credits
+## Credits
  
 The micro:bit picture is taken from the micro:bit documentation. micro:bit is a trademark of the Micro:bit Educational Foundation.
  
 ---
  
-Made with ❤️ by David.
+Made by David.
